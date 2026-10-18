@@ -38,3 +38,7 @@ Power BI | Data Visualization | Public Health Data Analysis | Dashboard Reportin
 
 ## Author
 Public Health Graduate | Aspiring Data Analyst
+## Dashboard Preview
+
+![Nigeria Vaccination Coverage Dashboard](Screenshot%202026-10-18%20212343.png)
+ Copy text
